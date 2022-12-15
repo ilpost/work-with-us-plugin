@@ -18,7 +18,7 @@ Prima di cominciare leggi la Storia del plugin, nella quale sono contenute le in
 
 Poi, esegui un fork del progetto da utilizzare per scrivere la tua versione del plugin, che dovrà rispettare le indicazioni contenute nella Storia.
 
-Quando avrai aggiornato il fork del repostory potrai inviare la tua candidatura all'indirizzo tech[at]ilpost.it indicando il link del repository.
+Quando avrai aggiornato il fork del repostory potrai inviare la tua candidatura da [questa pagina](https://apply.workable.com/il-post/j/C7D4DA975C/) e ti verrà chiesto di inserire il link del repository
 
 Verrà valutata la pulizia del codice, l'inserimento di commenti esaustivi e l'ottimizzazione dal punto di vista delle performance.
 
